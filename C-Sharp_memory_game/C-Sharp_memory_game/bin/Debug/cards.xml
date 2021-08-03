@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <cards>
+    
+    <card id="1">
+      <name>dejan.jpg</name>
+    </card>
+
+    <card id="2">
+      <name>fiko.jpg</name>
+    </card>
+
+    <card id="3">
+      <name>jurij.jpg</name>
+    </card>
+
+    <card id="4">
+      <name>sergej.jpg</name>
+    </card>
+
+
+  </cards>

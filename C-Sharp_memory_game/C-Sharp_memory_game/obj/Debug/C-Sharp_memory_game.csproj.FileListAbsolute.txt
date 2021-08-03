@@ -1,0 +1,10 @@
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\bin\Debug\C-Sharp_memory_game.exe.config
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\bin\Debug\C-Sharp_memory_game.exe
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\bin\Debug\C-Sharp_memory_game.pdb
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C-Sharp_memory_game.csprojAssemblyReference.cache
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C_Sharp_memory_game.Form1.resources
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C_Sharp_memory_game.Properties.Resources.resources
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C-Sharp_memory_game.csproj.GenerateResource.cache
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C-Sharp_memory_game.csproj.CoreCompileInputs.cache
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C-Sharp_memory_game.exe
+C:\Users\Pirkuleee\source\repos\C-Sharp_memory_game\C-Sharp_memory_game\obj\Debug\C-Sharp_memory_game.pdb
